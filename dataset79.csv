@@ -1,0 +1,107 @@
+﻿movie_title,production_date,genres,runtime_minutes,director_name,birth_year,movie_averageRating,budget,gross
+The Dark Knight Rises,7/19/12,"Action,Drama",164,Christopher Nolan,1970,8.4,230000000,1082228107
+The Chronicles of Narnia: Prince Caspian,5/16/08,"Action,Adventure,Family",150,Andrew Adamson,1966,6.5,225000000,417341288
+Tenet,8/26/20,"Action,Sci-Fi,Thriller",150,Christopher Nolan,1970,7.3,205000000,360240189
+The Dark Knight,7/11/08,"Action,Crime,Drama",152,Christopher Nolan,1970,9,185000000,1006234167
+Valerian and the City of a Thousand Planets,7/20/17,"Action,Adventure,Fantasy",136,Luc Besson,1959,6.4,180000000,215098356
+Edge of Tomorrow,5/28/14,"Action,Adventure,Sci-Fi",113,Doug Liman,1965,7.9,178000000,367028980
+G.I. Joe: The Rise of Cobra,8/7/09,"Action,Adventure,Sci-Fi",118,Stephen Sommers,1962,5.7,175000000,302469017
+Van Helsing,5/5/04,"Action,Adventure,Fantasy",131,Stephen Sommers,1962,6,170000000,300150546
+Interstellar,11/5/14,"Adventure,Drama,Sci-Fi",169,Christopher Nolan,1970,8.6,165000000,648785349
+Inception,7/16/10,"Action,Adventure,Sci-Fi",148,Christopher Nolan,1970,8.8,160000000,728537960
+Warcraft,5/25/16,"Action,Adventure,Fantasy",123,Duncan Jones,1971,6.7,160000000,438899824
+Batman Begins,6/15/05,"Action,Crime,Drama",140,Christopher Nolan,1970,8.2,150000000,358858124
+Dunkirk,7/18/17,"Action,Drama,History",106,Christopher Nolan,1970,7.8,150000000,518058826
+X-Men Origins: Wolverine,5/1/09,"Action,Sci-Fi",107,Gavin Hood,1963,6.5,150000000,374825760
+Mad Max: Fury Road,5/14/15,"Action,Adventure,Sci-Fi",120,George Miller,1945,8.1,150000000,365769378
+The Great Wall,12/15/16,"Action,Adventure,Fantasy",103,Yimou Zhang,1951,5.9,150000000,334486852
+Noah,3/27/14,"Action,Adventure,Drama",138,Darren Aronofsky,1969,5.8,130000000,352831065
+Total Recall,8/3/12,"Action,Adventure,Sci-Fi",118,Len Wiseman,1973,6.2,125000000,211856088
+Live Free or Die Hard,6/27/07,"Action,Thriller",128,Len Wiseman,1973,7.1,110000000,382288147
+Ender's Game,10/25/13,"Action,Adventure,Sci-Fi",114,Gavin Hood,1963,6.6,110000000,127983283
+Gone in 60 Seconds,6/9/00,"Action,Crime,Thriller",118,Dominic Sena,1949,6.5,103300000,232643008
+Land of the Lost,6/5/09,"Action,Adventure,Comedy",102,Brad Silberling,1963,5.3,100000000,69548641
+Chaos Walking,2/3/21,"Action,Adventure,Fantasy",109,Doug Liman,1965,5.7,100000000,27072169
+The Mummy Returns,5/4/01,"Action,Adventure,Fantasy",130,Stephen Sommers,1962,6.4,98000000,435040395
+The Fifth Element,5/9/97,"Action,Adventure,Sci-Fi",126,Luc Besson,1959,7.6,95000000,263892820
+Mirror Mirror,3/15/12,"Adventure,Comedy,Drama",106,Tarsem Singh,1961,5.6,85000000,173613482
+Jumper,2/14/08,"Action,Adventure,Sci-Fi",88,Doug Liman,1965,6.1,82500000,222640812
+The Mummy,5/7/99,"Action,Adventure,Fantasy",124,Stephen Sommers,1962,7.1,80000000,416385488
+Swordfish,6/8/01,"Action,Crime,Thriller",99,Dominic Sena,1949,6.5,80000000,147080413
+Babe: Pig in the City,11/25/98,"Adventure,Comedy,Drama",97,George Miller,1945,5.8,80000000,69131860
+Immortals,11/11/11,"Action,Drama,Fantasy",110,Tarsem Singh,1961,6,75000000,211562435
+Life,4/16/99,"Comedy,Crime,Drama",108,Ted Demme,1963,6.7,75000000,73521587
+The Monuments Men,2/7/14,"Comedy,Drama,History",118,George Clooney,1961,6.1,70000000,158702748
+The Bourne Identity,6/14/02,"Action,Mystery,Thriller",119,Doug Liman,1965,7.9,60000000,214357371
+Leatherheads,4/4/08,"Comedy,Drama,Romance",114,George Clooney,1961,6,58000000,41348628
+Casper,5/26/95,"Comedy,Family,Fantasy",100,Brad Silberling,1963,6.1,55000000,282300000
+City of Angels,4/10/98,"Drama,Fantasy,Romance",114,Brad Silberling,1963,6.7,55000000,198750909
+Man on the Moon,12/22/99,"Biography,Comedy,Drama",118,Milos Forman,1932,7.4,52000000,47407635
+American Made,8/23/17,"Action,Comedy,Crime",115,Doug Liman,1965,7.1,50000000,135569212
+Out of Time,10/3/03,"Crime,Drama,Mystery",105,Carl Franklin,1949,6.5,50000000,55489826
+Into the Blue,9/30/05,"Action,Adventure,Crime",110,John Stockwell,1961,5.9,50000000,41982227
+The Messenger: The Story of Joan of Arc,11/12/99,"Adventure,Biography,Drama",158,Luc Besson,1959,6.4,50000000,14271297
+Insomnia,5/24/02,"Drama,Mystery,Thriller",118,Christopher Nolan,1970,7.2,46000000,113622499
+Underworld: Evolution,1/20/06,"Action,Fantasy,Thriller",106,Len Wiseman,1973,6.7,45000000,113417762
+Cellular,9/10/04,"Action,Crime,Thriller",94,David R. Ellis,1952,6.5,45000000,61453420
+Deep Rising,1/30/98,"Action,Adventure,Horror",106,Stephen Sommers,1962,6.1,45000000,11203026
+High Crimes,4/5/02,"Crime,Drama,Mystery",115,Carl Franklin,1949,6.3,42000000,63781100
+Lucy,7/25/14,"Action,Sci-Fi,Thriller",89,Luc Besson,1959,6.4,40000000,457507776
+The Final Destination,8/28/09,"Horror,Thriller",82,David R. Ellis,1952,5.1,40000000,187384627
+The Prestige,10/20/06,"Drama,Mystery,Sci-Fi",130,Christopher Nolan,1970,8.5,40000000,104407366
+Season of the Witch,1/7/11,"Action,Adventure,Fantasy",95,Dominic Sena,1949,5.4,40000000,91126600
+Get Carter,10/6/00,"Action,Crime,Drama",102,Stephen Kay,1963,5.1,40000000,19417182
+The Cell,8/18/00,"Crime,Horror,Sci-Fi",107,Tarsem Singh,1961,6.4,35000000,104102747
+Whiteout,9/11/09,"Action,Crime,Mystery",101,Dominic Sena,1949,5.5,35000000,12254746
+The Fountain,11/22/06,"Drama,Mystery,Romance",97,Darren Aronofsky,1969,7.2,35000000,15461638
+Snakes on a Plane,8/18/06,"Action,Adventure,Crime",105,David R. Ellis,1952,5.5,33000000,62020814
+Source Code,4/1/11,"Action,Drama,Mystery",93,Duncan Jones,1971,7.5,32000000,140428499
+Sisters,12/18/15,Comedy,118,Jason Moore,1970,6,30000000,106030660
+Blow,4/6/01,"Biography,Crime,Drama",124,Ted Demme,1963,7.5,30000000,83282296
+Blue Crush,8/16/02,"Drama,Romance,Sport",104,John Stockwell,1961,5.7,30000000,51618420
+The Family,9/13/13,"Comedy,Crime,Thriller",111,Luc Besson,1959,6.3,30000000,80588942
+One True Thing,9/18/98,Drama,127,Carl Franklin,1949,6.9,30000000,26708196
+North Country,10/21/05,Drama,126,Niki Caro,1966,7.3,30000000,23676771
+Anna,6/19/19,"Action,Thriller",118,Luc Besson,1959,6.6,30000000,32825217
+Like a Boss,1/10/20,Comedy,83,Miguel Arteta,1965,4.7,29000000,26563888
+Confessions of a Dangerous Mind,12/31/02,"Biography,Comedy,Crime",113,George Clooney,1961,7,29000000,33013805
+Rendition,10/19/07,"Drama,Thriller",122,Gavin Hood,1963,6.8,27500000,26939925
+The Jungle Book,12/25/94,"Adventure,Family,Romance",111,Stephen Sommers,1962,6,27000000,44342956
+Final Destination 2,1/31/03,"Horror,Thriller",90,David R. Ellis,1952,6.2,26000000,90396664
+Cirque du Soleil: Worlds Away,12/21/12,Fantasy,91,Andrew Adamson,1966,6.7,25000000,34153101
+The Ides of March,10/7/11,"Drama,Thriller",101,George Clooney,1961,7.1,23000000,77735925
+Underworld,9/19/03,"Action,Fantasy,Thriller",121,Len Wiseman,1973,7,22000000,95708457
+Moonlight Mile,9/27/02,"Drama,Romance",117,Brad Silberling,1963,6.6,21000000,6830957
+Wonder,10/17/17,"Drama,Family",113,Stephen Chbosky,1970,7.9,20000000,310884320
+Boogeyman,2/4/05,"Drama,Horror,Mystery",89,Stephen Kay,1963,4.1,20000000,67192859
+Amadeus,9/19/84,"Biography,Drama,Music",160,Milos Forman,1932,8.4,18000000,51973029
+Pitch Perfect,9/28/12,"Comedy,Music,Romance",112,Jason Moore,1970,7.1,17000000,116044347
+"McFarland, USA",2/20/15,"Biography,Drama,Sport",129,Niki Caro,1966,7.4,17000000,45707924
+Bobby Jones: Stroke of Genius,4/30/04,"Biography,Drama,Romance",123,Rowdy Herrington,1951,6.6,17000000,2694071
+Flicka,10/20/06,"Adventure,Drama,Family",95,Michael Mayer,1960,6,15000000,21896367
+White Fang,1/18/91,"Adventure,Drama",107,Randal Kleiser,1946,6.7,14000000,34729091
+Black Swan,12/3/10,"Drama,Thriller",108,Darren Aronofsky,1969,8,13000000,331266710
+The Perks of Being a Wallflower,9/20/12,Drama,103,Stephen Chbosky,1970,7.9,13000000,33069303
+House of Flying Daggers,12/3/04,"Action,Adventure,Drama",119,Yimou Zhang,1951,7.5,12000000,92863945
+Road House,5/19/89,"Action,Thriller",114,Rowdy Herrington,1951,6.6,10000000,30050028
+Sparkle,8/17/12,"Drama,Music",116,Salim Akil,1964,5.7,10000000,24660323
+Turistas,12/1/06,"Horror,Mystery,Thriller",93,John Stockwell,1961,5.4,10000000,14321070
+Cedar Rapids,2/11/11,Comedy,87,Miguel Arteta,1965,6.3,10000000,7862131
+The Good Girl,8/7/02,"Drama,Romance",93,Miguel Arteta,1965,6.4,8000000,16585503
+The Invisible Man,2/26/20,"Drama,Horror,Mystery",124,Leigh Whannell,1977,7.1,7000000,139011965
+Jumping the Broom,5/6/11,"Comedy,Drama",112,Salim Akil,1964,5.7,7000000,38158601
+The Adventures of Huck Finn,4/2/93,"Adventure,Comedy,Drama",108,Stephen Sommers,1962,6.2,6500000,24103594
+A Home at the End of the World,7/23/04,"Drama,Romance",97,Michael Mayer,1960,6.6,6500000,1038228
+Grease,6/16/78,"Comedy,Musical,Romance",110,Randal Kleiser,1946,7.2,6000000,387472317
+The Wrestler,12/17/08,"Drama,Sport",109,Darren Aronofsky,1969,7.9,6000000,46634275
+Moon,6/12/09,"Drama,Mystery,Sci-Fi",97,Duncan Jones,1971,7.8,5000000,10676073
+The Blue Lagoon,6/20/80,"Adventure,Drama,Romance",104,Randal Kleiser,1946,5.8,4500000,47923795
+Requiem for a Dream,10/6/00,Drama,102,Darren Aronofsky,1969,8.3,4500000,7389233
+One Flew Over the Cuckoo's Nest,11/19/75,Drama,133,Milos Forman,1932,8.7,4400000,163274115
+The Last Time I Committed Suicide,6/20/97,"Biography,Drama,Romance",92,Stephen Kay,1963,5.5,4000000,12836
+Upgrade,6/1/18,"Action,Sci-Fi,Thriller",100,Leigh Whannell,1977,7.5,3000000,16976561
+The Wall,5/12/17,"Action,Drama,Thriller",88,Doug Liman,1965,6.2,3000000,4495262
+Subway,11/6/85,Thriller,104,Luc Besson,1959,6.5,2000000,1663296
+Mad Max,4/12/79,"Action,Adventure,Sci-Fi",88,George Miller,1945,6.8,200000,99750000
+Swingers,10/18/96,"Comedy,Drama",96,Doug Liman,1965,7.2,200000,6618578
+Pi,7/10/98,"Drama,Horror,Mystery",84,Darren Aronofsky,1969,7.3,68000,4678513
